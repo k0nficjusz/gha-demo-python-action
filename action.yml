@@ -1,0 +1,5 @@
+name: "Print Variable with python"
+description: "An action to print variables from git using python script"
+runs:
+  using: "python3"
+  main: "main.py"
